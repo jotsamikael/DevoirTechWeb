@@ -1,0 +1,509 @@
+*{
+    margin:0;
+    padding: 0;
+    
+}
+
+.bigcontainer
+{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.box-1{
+    background-color: #676767;
+    color: white;
+    border-bottom: 2px #fff solid;
+}
+
+.box-1 h1 {
+    font-size: 45px;
+    text-align: center;
+ 
+}
+
+.container1{
+    display: flex;
+    flex-direction: row; 
+}
+
+
+.box-2{
+   background-color: #eaf1f9;
+   height: 300px;
+   width: 40%;
+    
+
+}
+.box-2 h1 {
+   
+    color: #1689b8;
+    font-size: 68px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 2em;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.box-2 span{
+    color:#48757b;
+    font-size: 24px;
+}
+.box-3{
+    
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    
+
+
+}
+.box-3-UP{
+    background-color: #19729e;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 80%;
+    
+}
+.box-3 hr{
+    background-color: #fff;   
+}
+.box-3 h1{
+    color: #fff;   
+}
+
+.box-3-UP span{
+    color: #fff;
+    font-family: serif;
+    font-size: large;
+       
+}
+
+.box-3-UP-A{
+    border-right: 1px #fff solid;
+    width: 42%;    
+}
+
+.box-3-BUTTOM{
+    height: 40%;
+    background-color: #1689b8;
+    border-top: 3px #fff solid;
+}
+
+.box-3-BUTTOM h1{
+    font-size: 65px;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.box-3-BUTTOM span{
+    color: #19729e;
+    background-color: #fff;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 2px;
+}
+
+/**************************** SANS-SERIF ****************************************/
+
+.box-2-1{
+    background-color: #f9ebeb;
+    height: 300px;
+    width: 40%;
+     
+ 
+ }
+ .box-2-1 h1 {
+    
+     color: #d43450;
+     font-size: 58px;
+     font-family: 'Times New Roman', Times, serif;
+     line-height: 2em;
+     text-align: center;
+     
+ }
+ 
+ .box-2-1 span{
+     color:#a72f39;
+     font-size: 24px;
+ }
+ .box-3-1{
+     
+     width: 100%;
+     display: flex;
+     flex-direction: column;
+     
+ 
+ 
+ }
+ .box-3-UP-1{
+     background-color: #a72f39;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-around;
+     height: 80%;
+     
+ }
+ .box-3-1 hr{
+     background-color: #fff;   
+ }
+ .box-3-1 h1{
+     color: #fff;   
+ }
+ 
+ .box-3-UP-1 span{
+     color: #fff;
+     font-family: serif;
+     font-size: large;
+        
+ }
+ 
+ .box-3-UP-A-1{
+     border-right: 1px #fff solid;
+     width: 42%;    
+ }
+ 
+ .box-3-BUTTOM-1{
+     height: 40%;
+     background-color: #a72f39;
+     border-top: 3px #fff solid;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ 
+ .box-3-BUTTOM-1 h1{
+     font-size: 65px;
+     color: #fff;
+     text-align: center;
+     padding-bottom: 25px;
+ }
+ 
+ .box-3-BUTTOM-1 span{
+     color: #c22c45;
+     background-color: #fff;
+     font-size: 25px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     padding: 2px;
+ }
+
+ .box-3-BUTTOM-1 h1{
+    font-size: 65px;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 25px;
+}  
+
+
+
+
+/**************************** Script ****************************************/
+
+.box-2-2{
+    background-color: #e8f4f4;
+    height: 300px;
+    width: 40%;
+     
+ 
+ }
+ .box-2-2 h1 {
+    
+     color: #357e77;
+     font-size: 58px;
+     font-family: cursive;
+     line-height: 2em;
+     text-align: center;
+     
+ }
+
+ .box-2-2 hr {
+    
+    background-color: #357e77;
+    text-align: center;
+
+}
+ 
+ .box-2-2 span{
+     color:#357e77;
+     font-size: 24px;
+ }
+ .box-3-2{
+     
+     width: 100%;
+     display: flex;
+     flex-direction: column;
+     
+ 
+ 
+ }
+ .box-3-UP-2{
+     background-color: #137d79;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-around;
+     height: 80%;
+     
+ }
+ .box-3-2 hr{
+     background-color: #fff;   
+ }
+ .box-3-2 h1{
+     color: #fff;   
+ }
+ 
+ .box-3-UP-2 span{
+     color: #fff;
+     font-family: serif;
+     font-size: large;
+        
+ }
+ 
+ .box-3-UP-A-2{
+     border-right: 1px #fff solid;
+     width: 42%;    
+ }
+ 
+ .box-3-BUTTOM-2{
+     height: 40%;
+     background-color: #137d79;
+     border-top: 3px #fff solid;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ 
+ .box-3-BUTTOM-2 h1{
+     font-size: 65px;
+     color: #fff;
+     text-align: center;
+     padding-bottom: 25px;
+ }
+ 
+ .box-3-BUTTOM-2 span{
+     color: #137d79;
+     background-color: #fff;
+     font-size: 25px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     padding: 2px;
+ }
+
+ .box-3-BUTTOM-2 h1{
+    font-size: 65px;
+    font-family: cursive;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 25px;
+}  
+
+
+
+/**************************** Moderna ****************************************/
+
+.box-2-3{
+    background-color: #f2f0f5;
+    height: 300px;
+    width: 40%;
+     
+ 
+ }
+ .box-2-3 h1 {
+    
+     color: #876fa3;
+     font-size: 48px;
+     line-height: 2em;
+     text-align: center;
+     
+ }
+
+ .box-2-3 hr {
+    
+    background-color: #7e609c;
+    text-align: center;
+
+}
+ 
+ .box-2-3 span{
+     color:#7a6492;
+     font-size: 24px;
+ }
+ .box-3-3{
+     
+     width: 100%;
+     display: flex;
+     flex-direction: column;
+     
+ 
+ 
+ }
+ .box-3-UP-3{
+     background-color: #7a6492;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-around;
+     height: 80%;
+     
+ }
+ .box-3-3 hr{
+     background-color: #fff;   
+ }
+ .box-3-3 h1{
+     color: #fff;   
+ }
+ 
+ .box-3-UP-3 span{
+     color: #fff;
+     font-family: serif;
+     font-size: large;
+        
+ }
+ 
+ .box-3-UP-A-3{
+     border-right: 1px #fff solid;
+     width: 42%;    
+ }
+ 
+ .box-3-BUTTOM-3{
+     height: 40%;
+     background-color: #7e619b;
+     border-top: 3px #fff solid;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ 
+ .box-3-BUTTOM-3 h1{
+     font-size: 65px;
+     color: #fff;
+     text-align: center;
+     padding-bottom: 25px;
+ }
+ 
+ .box-3-BUTTOM-3 span{
+     color: #7e619b;
+     background-color: #fff;
+     font-size: 25px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     padding: 2px;
+ }
+
+ .box-3-BUTTOM-3 h1{
+    font-size: 30px;
+    font-family: fantasy;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 65px;
+}  
+
+.box-3-BUTTOM-3 h1 span{
+    font-size: 16px;
+    font-family: cursive;
+    color: #fff;
+    text-align: center;
+   padding: 0%;
+   text-transform: capitalize;
+    background-color: #7e609c;
+    
+
+
+}  
+
+
+/**************************** Decorativa ****************************************/
+
+.box-2-4{
+    background-color: #fcf4e9;
+    height: 300px;
+    width: 40%;
+     
+ 
+ }
+ .box-2-4 h1 {
+    
+     color: #d19d4a;
+     font-size: 40px;
+     line-height: 2em;
+     text-align: center;
+     
+ }
+
+ .box-2-4 hr {
+    
+    background-color: #d19d4a;
+    text-align: center;
+
+}
+ 
+ .box-2-4 span{
+     color:#cb9648;
+     font-size: 24px;
+ }
+ .box-3-4{
+     
+     width: 100%;
+     display: flex;
+     flex-direction: column;
+     
+ 
+ 
+ }
+ .box-3-UP-4{
+     background-color: #b98029;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-around;
+     height: 80%;
+     
+ }
+ .box-3-4 hr{
+     background-color: #fff;   
+ }
+ .box-3-4 h1{
+     color: #fff;   
+ }
+ 
+ .box-3-UP-4 span{
+     color: #fff;
+     font-family: serif;
+     font-size: large;
+        
+ }
+ 
+ .box-3-UP-A-4{
+     border-right: 1px #fff solid;
+     width: 42%;    
+ }
+ 
+ .box-3-BUTTOM-4{
+     height: 40%;
+     background-color: #dc952b;
+     border-top: 3px #fff solid;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ 
+ .box-3-BUTTOM-4 h1{
+     font-size: 65px;
+     color: #fff;
+     text-align: center;
+     padding-bottom: 25px;
+ }
+ 
+ .box-3-BUTTOM-4 span{
+     color: #dc952b;
+     background-color: #fff;
+     font-size: 25px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     padding: 2px;
+ }
+
+ .box-3-BUTTOM-4 h1{
+    font-size: 60px;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-bottom: 25px;
+}  
+
+ 
+
+
+ 
+ 
+
+
